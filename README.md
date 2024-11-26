@@ -21,3 +21,6 @@ I'm a **Full Stack Developer** with a passion for building scalable and efficien
 
 - Diving deeper into **Cloud Services** and improving my skills with **DevOps tools**.
 - Experimenting with new **JavaScript frameworks** and improving my knowledge of modern **microservice architectures**.
+
+### 📫 Let's Connect:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/todorovnikolay/)
